@@ -19,5 +19,5 @@ None
 
 ## Created by 
 
-Jason Francis
+Travon Ternoir
 ```
